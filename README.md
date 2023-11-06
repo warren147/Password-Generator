@@ -19,7 +19,7 @@ Download Java SE [here](https://www.oracle.com/java/technologies/javase-download
 
 ## Executing Program
 
-Download the code to your local device. Then, run the "Main.class" file to open the game. 
+Download the code to your local device. Then, run the "Main.class" file to open the GUI. 
 
 ## Inspiration
 
